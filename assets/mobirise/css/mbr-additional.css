@@ -165,8 +165,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #ff3366;
-  border-color: #ff3366;
+  background-color: #e7ff6e;
+  border-color: #e7ff6e;
   color: #ffffff;
 }
 .btn-secondary:hover,
@@ -174,14 +174,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff;
-  background-color: #e50039;
-  border-color: #e50039;
+  background-color: #daff21;
+  border-color: #daff21;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #e50039 !important;
-  border-color: #e50039 !important;
+  background-color: #daff21 !important;
+  border-color: #daff21 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -329,22 +329,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #cc0033;
-  color: #cc0033;
+  border-color: #d6ff08;
+  color: #d6ff08;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #ff3366;
-  border-color: #ff3366;
+  background-color: #e7ff6e;
+  border-color: #e7ff6e;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #ff3366 !important;
-  border-color: #ff3366 !important;
+  background-color: #e7ff6e !important;
+  border-color: #e7ff6e !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -464,7 +464,7 @@ body {
   color: #149dcc !important;
 }
 .text-secondary {
-  color: #ff3366 !important;
+  color: #e7ff6e !important;
 }
 .text-success {
   color: #f7ed4a !important;
@@ -490,7 +490,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #cc0033 !important;
+  color: #d6ff08 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -1840,22 +1840,22 @@ body {
     height: auto !important;
   }
 }
-.cid-qzXHOCJWfV {
+.cid-qA2FhbDjH5 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-color: #f9f9f9;
 }
-.cid-qzXHOCJWfV .mbr-section-subtitle {
+.cid-qA2FhbDjH5 .mbr-section-subtitle {
   color: #767676;
   font-weight: 300;
 }
-.cid-qzXHOCJWfV .media-container-row {
+.cid-qA2FhbDjH5 .media-container-row {
   word-wrap: break-word;
   word-break: break-word;
   align-items: stretch;
   -webkit-align-items: stretch;
 }
-.cid-qzXHOCJWfV .card_cont {
+.cid-qA2FhbDjH5 .card_cont {
   -o-transition: all .5s;
   -ms-transition: all .5s;
   -moz-transition: all .5s;
@@ -1872,25 +1872,25 @@ body {
   text-align: center;
   background-color: #eee;
 }
-.cid-qzXHOCJWfV .card-front {
+.cid-qA2FhbDjH5 .card-front {
   z-index: 2;
   padding: 0;
   width: 100%;
   height: 100%;
   overflow: hidden;
 }
-.cid-qzXHOCJWfV .card-front img {
+.cid-qA2FhbDjH5 .card-front img {
   min-height: 100%;
   min-width: 100%;
   width: auto;
   max-width: 600px;
 }
-.cid-qzXHOCJWfV .card_back {
+.cid-qA2FhbDjH5 .card_back {
   width: 100%;
   height: 100%;
   padding: 30px 30px;
   color: #ffffff;
-  background-color: #55b4d4;
+  background-color: #149dcc;
   z-index: 1;
   margin: 0;
   text-align: center;
@@ -1901,10 +1901,10 @@ body {
   -webkit-transform: rotateY(-180deg);
   transform: rotateY(-180deg);
 }
-.cid-qzXHOCJWfV .card {
+.cid-qA2FhbDjH5 .card {
   min-height: 300px;
 }
-.cid-qzXHOCJWfV .card:hover .card-front {
+.cid-qA2FhbDjH5 .card:hover .card-front {
   z-index: 1;
   -o-transform: rotateY(180deg);
   -ms-transform: rotateY(180deg);
@@ -1912,7 +1912,7 @@ body {
   -webkit-transform: rotateY(180deg);
   transform: rotateY(180deg);
 }
-.cid-qzXHOCJWfV .card:hover .card_back {
+.cid-qA2FhbDjH5 .card:hover .card_back {
   z-index: 2;
   -o-transform: rotateY(0deg);
   -ms-transform: rotateY(0deg);
@@ -1920,10 +1920,10 @@ body {
   -webkit-transform: rotateY(0deg);
   transform: rotateY(0deg);
 }
-.cid-qzXHOCJWfV .builderCard .card_back {
+.cid-qA2FhbDjH5 .builderCard .card_back {
   border-bottom-left-radius: 100px;
 }
-.cid-qzXHOCJWfV .builderCard .card_cont {
+.cid-qA2FhbDjH5 .builderCard .card_cont {
   -o-backface-visibility: hidden;
   -ms-backface-visibility: hidd;
   -moz-backface-visibility: visible;
