@@ -1,0 +1,33 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="GlowEdge-Offerte-Webdesign.nl" resolutions="1x" timestamp="1515766429193">
+  <folder name="images">
+    <file name="logo gray-crop-u428.png" crc="3790705959" ref="index"/>
+    <file name="1512812846.png" crc="3976941497" seo="true" ref="index"/>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="index"/>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="175261405" ref="index"/>
+    <file name="master_a-stramien.css" crc="52494498" ref="index"/>
+    <file name="iefonts_index.css" crc="371983910" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u500.php" crc="175968797" ref="index"/>
+  </folder>
+  <file name="index.html" crc="158117901" seo="true" mt="1515766294013" redirect="true"/>
+</manifest>
